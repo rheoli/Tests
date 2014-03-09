@@ -20,3 +20,9 @@
 * $ rake
 * it works
 
+## Step 4
+* add 'app.detect_dependencies = false' in Rakefile
+* $ rake clean
+* $ rake
+* it works
+
