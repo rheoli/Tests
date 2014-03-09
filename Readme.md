@@ -6,5 +6,5 @@
 * use actual Git Promotion in Gemfile
 * $ bundle
 * $ rake
-* it works as exspected
+* it works as expected
 
