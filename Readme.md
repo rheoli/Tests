@@ -14,3 +14,7 @@
 * $ rake
 * it works
 
+## Step 3
+* make HomeScreen inherit from FormotionScreen
+
+
