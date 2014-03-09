@@ -1,5 +1,6 @@
 .repl_history
 build
+gems
 tags
 app/pixate_code.rb
 resources/*.nib
