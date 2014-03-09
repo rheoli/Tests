@@ -8,3 +8,9 @@
 * $ rake
 * it works as expected
 
+## Step 2
+* add formotion (git master) and ProMotion-formotion (gem)
+* $ bundle
+* $ rake
+* it works
+

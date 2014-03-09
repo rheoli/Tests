@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/clayallsopp/formotion.git
+  revision: 9eeea4d39d49796b4db1ee94ad32edee5943668c
+  specs:
+    formotion (1.7)
+      bubble-wrap (>= 1.4.0)
+      motion-require (>= 0.1.0)
+
+GIT
   remote: https://github.com/clearsightstudio/ProMotion.git
   revision: 4dbcc994989afd00d4f4ff34b2244dc7acda5b8a
   specs:
@@ -9,6 +17,11 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
+    ProMotion-formotion (0.1.3)
+      ProMotion (>= 1.1.1)
+      formotion (>= 1.6)
+      motion-require (>= 0.1.1)
+    bubble-wrap (1.5.0)
     methadone (1.3.2)
       bundler
     motion-require (0.2.0)
@@ -19,4 +32,6 @@ PLATFORMS
 
 DEPENDENCIES
   ProMotion!
+  ProMotion-formotion
+  formotion!
   rake
